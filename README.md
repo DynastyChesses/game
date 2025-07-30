@@ -1,4 +1,4 @@
-# DynastyChesses
+🚀 # DynastyChesses
 
 An innovative GameFi strategy game merging Chinese historical dynasties with chess-based warfare mechanics, built on the Internet Computer Protocol (ICP) blockchain.
 
