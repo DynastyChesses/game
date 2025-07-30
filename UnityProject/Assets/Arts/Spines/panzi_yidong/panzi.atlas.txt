@@ -1,0 +1,27 @@
+
+panzi.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yuanwu
+  rotate: true
+  xy: 2, 310
+  size: 125, 167
+  orig: 130, 169
+  offset: 1, 0
+  index: -1
+images/盘子01
+  rotate: false
+  xy: 2, 147
+  size: 166, 161
+  orig: 168, 163
+  offset: 1, 1
+  index: -1
+images/盘子02
+  rotate: false
+  xy: 2, 2
+  size: 164, 143
+  orig: 166, 145
+  offset: 1, 1
+  index: -1

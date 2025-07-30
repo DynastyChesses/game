@@ -1,0 +1,59 @@
+
+
+using System;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MapTestIR : BaseScriptItemRendererView
+{
+    
+    private object _data;
+
+    public override object data
+    {
+        get
+        {
+            return _data;
+        }
+        set
+        {
+            _data = value;
+            Refresh();
+        }
+    }
+
+    public override void Refresh()
+    {
+        base.Refresh();
+        if (_data == null)
+            return;
+        Render();
+    }
+
+    public void Render()
+    {
+    }
+
+    //auto generate propertyDef Start, Don't Delete it!
+    //auto generate propertyDef End, Don't Delete it!
+
+
+
+    public override void Replace(GameObject viewObj)
+    {
+        base.Replace(viewObj);
+        //auto generate propertySet Start, Don't Delete it!
+        //auto generate propertySet End, Don't Delete it!
+
+    }
+
+    public override void Dispose()
+    {
+        //auto generate propertyDis Start, Don't Delete it!
+        //auto generate propertyDis End, Don't Delete it!
+
+        base.Dispose();
+    }
+}
+
+// 数据类

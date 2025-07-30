@@ -1,0 +1,27 @@
+
+men_coin.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 548, 46
+  size: 500, 500
+  orig: 502, 502
+  offset: 1, 1
+  index: -1
+y1
+  rotate: false
+  xy: 2, 2
+  size: 544, 544
+  orig: 544, 544
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 1050, 46
+  size: 433, 500
+  orig: 435, 502
+  offset: 1, 1
+  index: -1

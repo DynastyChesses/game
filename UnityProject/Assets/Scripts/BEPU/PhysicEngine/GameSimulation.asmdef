@@ -1,0 +1,16 @@
+{
+    "name": "GameSimulation",
+    "references": [
+        "GUID:ba208db0b77e51e4b935682681c8c221",
+        "GUID:a3ba8af6f55394b97815a61fdfdc4256"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

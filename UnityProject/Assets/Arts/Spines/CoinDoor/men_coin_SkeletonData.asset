@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bde0fe1218174c1fbc5f05a9e0a98bd, type: 3}
+  m_Name: men_coin_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: c7aac384c2f424de28ae20c47b77b36b, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: a08eb1b23c8e746e4b2bb57bb7ab5075, type: 3}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}
+  headersHash: nO/VHq6E86409HhLVJIUl4cufEQ
+  headers:
+  - animation: close
+    index: 0
+    start: 431
+    length: 161
+  - animation: open
+    index: 1
+    start: 592
+    length: 256
+  - animation: shake
+    index: 2
+    start: 848
+    length: 824

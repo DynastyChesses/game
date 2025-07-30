@@ -1,0 +1,31 @@
+
+
+using System;
+using System.Collections.Generic;
+
+public class ${TemplateMediatorClass} : TSubViewMediator<${TemplateSkin}>
+{
+    
+    public ${TemplateMediatorClass}() : base(MediatorNames.${TemplateMediatorName})
+    {
+        
+    }
+
+    protected override void OnCreateView() 
+    {
+    
+    }
+
+    protected override void OnShowView(object data)
+    {
+
+    }
+
+    protected override void OnDispose()
+    {
+        if (_view != null) 
+        {
+
+        }
+    }
+}

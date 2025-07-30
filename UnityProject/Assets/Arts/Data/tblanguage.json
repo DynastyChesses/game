@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "key": "level_key",
+    "ChineseSimplified": "等级",
+    "English": "Lv.",
+    "Japanese": "レベルです",
+    "French": "La hiérarchie",
+    "Russian": "иерарх",
+    "ChineseTraditional": "等級"
+  },
+  {
+    "id": 2,
+    "key": "greet_key",
+    "ChineseSimplified": "打招呼",
+    "English": "Greet sb.",
+    "Japanese": "ご挨拶します",
+    "French": "Dites bonjour à",
+    "Russian": "Привет.",
+    "ChineseTraditional": "打招呼"
+  },
+  {
+    "id": 3,
+    "key": "gift_key",
+    "ChineseSimplified": "礼物",
+    "English": "gift",
+    "Japanese": "贈り物です",
+    "French": "cadeaux",
+    "Russian": "подарк",
+    "ChineseTraditional": "禮物"
+  },
+  {
+    "id": 4,
+    "key": "game_key",
+    "ChineseSimplified": "游戏",
+    "English": "game",
+    "Japanese": "ゲームです",
+    "French": "jeux",
+    "Russian": "игр",
+    "ChineseTraditional": "遊戲"
+  },
+  {
+    "id": 5,
+    "key": "random_key",
+    "ChineseSimplified": "随机",
+    "English": "random",
+    "Japanese": "ランダムです",
+    "French": "aléatoire",
+    "Russian": "случайн",
+    "ChineseTraditional": "隨機"
+  },
+  {
+    "id": 6,
+    "key": "exclusive_key",
+    "ChineseSimplified": "专属",
+    "English": "exclusive",
+    "Japanese": "専属です",
+    "French": "exclusive",
+    "Russian": "эксклюзивн",
+    "ChineseTraditional": "專屬"
+  },
+  {
+    "id": 7,
+    "key": "send_key",
+    "ChineseSimplified": "发送",
+    "English": "send",
+    "Japanese": "発送します",
+    "French": "l’envoi",
+    "Russian": "отправля",
+    "ChineseTraditional": "發送"
+  },
+  {
+    "id": 8,
+    "key": "chinese_key",
+    "ChineseSimplified": "中文",
+    "English": "Chinese",
+    "Japanese": "中文",
+    "French": "chinois",
+    "Russian": "китайск",
+    "ChineseTraditional": "中文"
+  },
+  {
+    "id": 9,
+    "key": "english_key",
+    "ChineseSimplified": "英文",
+    "English": "English",
+    "Japanese": "英語です",
+    "French": "En anglais",
+    "Russian": "английск",
+    "ChineseTraditional": "英文"
+  },
+  {
+    "id": 10,
+    "key": "japanese_key",
+    "ChineseSimplified": "日语",
+    "English": "Japanese",
+    "Japanese": "日本語です",
+    "French": "japonais",
+    "Russian": "японск",
+    "ChineseTraditional": "日語"
+  },
+  {
+    "id": 11,
+    "key": "french_key",
+    "ChineseSimplified": "法语",
+    "English": "French",
+    "Japanese": "フランス語です",
+    "French": "En français",
+    "Russian": "французск",
+    "ChineseTraditional": "法語"
+  },
+  {
+    "id": 12,
+    "key": "russian_key",
+    "ChineseSimplified": "俄语",
+    "English": "Russian",
+    "Japanese": "ロシア語です",
+    "French": "Le russe",
+    "Russian": "русск",
+    "ChineseTraditional": "俄語"
+  },
+  {
+    "id": 13,
+    "key": "chinese_traditional_key",
+    "ChineseSimplified": "繁体中文",
+    "English": "ChineseTraditional",
+    "Japanese": "繁体中国語",
+    "French": "Chinois traditionnel chinois",
+    "Russian": "Плоский китайский",
+    "ChineseTraditional": "繁體中文"
+  },
+  {
+    "id": 14,
+    "key": "language_key",
+    "ChineseSimplified": "语言",
+    "English": "language",
+    "Japanese": "言語です",
+    "French": "Langue",
+    "Russian": "язык",
+    "ChineseTraditional": "語言"
+  },
+  {
+    "id": 15,
+    "key": "setup_key",
+    "ChineseSimplified": "设置",
+    "English": "setup",
+    "Japanese": "設置します",
+    "French": "La mise en place",
+    "Russian": "настройк",
+    "ChineseTraditional": "設置"
+  },
+  {
+    "id": 16,
+    "key": "about_key",
+    "ChineseSimplified": "关于",
+    "English": "about",
+    "Japanese": "についてです",
+    "French": "En ce qui concerne",
+    "Russian": "о",
+    "ChineseTraditional": "關于"
+  },
+  {
+    "id": 17,
+    "key": "hello_1",
+    "ChineseSimplified": "嘿，你好！我是{0}，带着满满的热情和微笑，向你问好。",
+    "English": "Hey there! I'm {0}, with a big smile and a lot of enthusiasm, greeting you!",
+    "Japanese": "やあ、こんにちは!私は{0}で、いっぱいの情熱とほほえみを持って、あなたによろしくお願いします。",
+    "French": "Bonjour, bonjour! Je suis {0} et je vous salue avec beaucoup d’enthousiasme et de sourire.",
+    "Russian": "Привет, хорошо ли тебе? Я {0}, передаю тебе мой полный энтузиазм и улыбку.",
+    "ChineseTraditional": "嘿，你好！我是{0}，帶著滿滿的熱情和微笑，向你問好。"
+  },
+  {
+    "id": 18,
+    "key": "hello_2",
+    "ChineseSimplified": "你好！非常高兴见到你。",
+    "English": "Hello! Nice to meet you.",
+    "Japanese": "こんにちは！会えてうれしいです。",
+    "French": "Bonjour ! Je suis très content de vous rencontrer.",
+    "Russian": "Привет! Очень рад вас видеть.",
+    "ChineseTraditional": "你好！很高興見到你。"
+  },
+  {
+    "id": 19,
+    "key": "hello_3",
+    "ChineseSimplified": "嗨，很高兴见到你，最近有什么新鲜事吗？",
+    "English": "Hi, nice to meet you. What's new lately?",
+    "Japanese": "こんにちは、会えて嬉しいです。最近何か新しいことがありますか？",
+    "French": "Bonjour, enchanté de faire votre connaissance. Qu'est-ce qu'il y a de nouveau récemment ?",
+    "Russian": "Привет, рад вас видеть. Что нового последнего времени?",
+    "ChineseTraditional": "嗨，很高興見到你，最近有什麼新鮮事嗎？"
+  },
+  {
+    "id": 20,
+    "key": "less_gems",
+    "ChineseSimplified": "钻石不足",
+    "English": "Diamond shortage",
+    "Japanese": "ダイヤモンド不足",
+    "French": "Pénurie de diamants",
+    "Russian": "Недостаток алмазов",
+    "ChineseTraditional": "鑽石不足"
+  },
+  {
+    "id": 21,
+    "key": "less_gems_content",
+    "ChineseSimplified": "钻石不足，请购买后继续",
+    "English": "Diamond insufficient, please purchase to continue.",
+    "Japanese": "ダイヤモンド不足です、購入後に続行お願いいたします。",
+    "French": "Pénurie de diamants, veuillez acheter pour continuer.",
+    "Russian": "Недостаток алмазов, попросите купить и продолжайте.",
+    "ChineseTraditional": "鑽石不足，請購買後繼續"
+  },
+  {
+    "id": 22,
+    "key": "yes",
+    "ChineseSimplified": "是",
+    "English": "Yes",
+    "Japanese": "はい",
+    "French": "Oui",
+    "Russian": "Да",
+    "ChineseTraditional": "是"
+  },
+  {
+    "id": 23,
+    "key": "no",
+    "ChineseSimplified": "否",
+    "English": "No",
+    "Japanese": "いいえ",
+    "French": "Non",
+    "Russian": "Нет",
+    "ChineseTraditional": "否"
+  },
+  {
+    "id": 24,
+    "key": "opt_frequent",
+    "ChineseSimplified": "操作太频繁",
+    "English": "Operation too frequent",
+    "Japanese": "操作が頻繁です",
+    "French": "Opération trop fréquente",
+    "Russian": "Операция слишком частая",
+    "ChineseTraditional": "操作太頻繁"
+  },
+  {
+    "id": 25,
+    "key": "content_isnot_null",
+    "ChineseSimplified": "内容不能为空",
+    "English": "Content cannot be empty",
+    "Japanese": "内容は空欄にできません",
+    "French": "Le contenu ne peut être vide",
+    "Russian": "Содержание не может быть пустое",
+    "ChineseTraditional": "內容不能為空"
+  },
+  {
+    "id": 26,
+    "key": "waiting_buy",
+    "ChineseSimplified": "正在购买，请稍后...",
+    "English": "Purchasing, please wait...",
+    "Japanese": "購入中です、お待ちください...",
+    "French": "En cours d'achat, veuillez attendre...",
+    "Russian": "В процессе покупки, пожалуйста, подождите...",
+    "ChineseTraditional": "正在購買中，請稍候..."
+  },
+  {
+    "id": 27,
+    "key": "buy_success",
+    "ChineseSimplified": "购买成功",
+    "English": "Purchase successful",
+    "Japanese": "購入成功です ",
+    "French": "Achat réussi",
+    "Russian": "Покупка успешная",
+    "ChineseTraditional": "購買成功"
+  },
+  {
+    "id": 28,
+    "key": "unlock_level",
+    "ChineseSimplified": "{0}级解锁",
+    "English": "Unlock at level {0}",
+    "Japanese": "{0}レベルでロック解除",
+    "French": "Déverrouillage au niveau {0}",
+    "Russian": "Разблокировка на уровне {0}",
+    "ChineseTraditional": "{0}級解鎖"
+  },
+  {
+    "id": 29,
+    "key": "gift_1",
+    "ChineseSimplified": "赠人玫瑰，手留余香。送上这份礼物，祝您幸福快乐。",
+    "English": "Giving roses to others leaves a lingering fragrance on one's hands. With this gift, I wish you happiness.",
+    "Japanese": "他人に薔薇を贈るには、手に残る香りがある。このおみやげを差し上げ、幸せを祈ります。",
+    "French": "Donner des roses aux autres laisse une odeur durable sur ses mains. Avec ce cadeau, je vous souhaite bonheur.",
+    "Russian": "Дать розы другим, оставлять запах на руках. Подарю вам этот подарок, желаю вам счастья.",
+    "ChineseTraditional": "贈人玫瑰，手有餘香。送上這份禮物，祝你幸福快樂。"
+  },
+  {
+    "id": 30,
+    "key": "gift_2",
+    "ChineseSimplified": "送给你这份小礼物，感谢你一直以来的支持和鼓励。希望它能给你带来一点惊喜和快乐，让你感到被关爱和珍视。",
+    "English": "Here's a little gift for you, thanking you for your constant support and encouragement. I hope it brings you a bit of surprise and joy, making you feel loved and valued.",
+    "Japanese": "これはあなたへの小さなおみやげで、いつものサポートと励ましに感謝いたします。少しの驚きと喜びをもたらし、愛想と大切さを感じてもらえたら幸いです。",
+    "French": "Voici un petit cadeau pour vous, je vous remercie pour votre soutien et encouragement constants. J'espère qu'il vous apportera un peu de surprise et de joie, vous faire sentir aimé et prisé.",
+    "Russian": "Вот небольшой подарок для вас, спасибо за неизменную поддержку и поощрение. Надеюсь, он принесет вам немного удивления и радости, чтобы вы чувствовали себя любимыми и ценными.",
+    "ChineseTraditional": "送給你这份小禮物，感謝你一直以來的支援和鼓勵。希望它能帶給你一點驚喜和快樂，讓你感到被關愛和珍視。"
+  },
+  {
+    "id": 31,
+    "key": "gift_3",
+    "ChineseSimplified": "亲爱的，这份礼物是我用心准备的。希望它能给你带来快乐和惊喜。祝你万事如意！",
+    "English": "Dear, this gift is prepared with all my heart. I hope it brings you happiness and surprise. Wish you all the best!",
+    "Japanese": "愛する人、このおみやげは心をこめて用意しました。喜びと驚きをもたらす事を願っております。何とぞご多幸を祈ります！",
+    "French": "Cher, ce cadeau est préparé avec mon cœur entier. J'espère qu'il vous apportera joie et surprise. Je vous souhaite tout le bonheur du monde!",
+    "Russian": "Дорогой, этот подарок я подготовила с всей душой. Надеюсь, он принесет вам радость и удивление. Желаю вам всего наилучшего!",
+    "ChineseTraditional": "親愛的，這份禮物是我用心準備的。希望它能帶給你快樂和驚喜。祝你萬事如意！"
+  },
+  {
+    "id": 32,
+    "key": "gift_4",
+    "ChineseSimplified": "送给你这份礼物，是为了表达我对你的感激之情。希望你会喜欢，它将成为我们友谊的永恒纪念。",
+    "English": "This gift is to express my gratitude to you. I hope you'll like it, and it will become an everlasting memento of our friendship.",
+    "Japanese": "このおみやげは、あなたへの感謝の気持ちを伝えるためです。好きであれば、私たちの友情の永遠の記念になりますよう願っております。",
+    "French": "Ce cadeau est pour exprimer ma gratitude à votre égard. J'espère que vous l'aimerez, et qu'il deviendra un souvenir éternel de notre amitié.",
+    "Russian": "Даю вам этот подарок, чтобы выразить мою благодарность. Надеюсь, он вам понравится, он станет вечным памятником нашей дружбы.",
+    "ChineseTraditional": "送給你這份禮物，是為了表達我對你的感激之情。希望你會喜歡，它將成為我們友情的永恆紀念。"
+  },
+  {
+    "id": 33,
+    "key": "gift_5",
+    "ChineseSimplified": "一份礼物，一份心意，一份祝福，一份关怀。愿我的这份礼物，能够成为你生活中的一抹亮色，祝你开心每一天！",
+    "English": "A gift, a token of affection, a blessing, a care. May my gift be a splash of color in your life, and I wish you joy every day!",
+    "Japanese": "一つのおみやげ、一つの想い、一つの祝福、一つの配慮。私のおみやげがあなたの生活に一抹の明るさをもたらす事を願っております、毎日楽しい日々を過ごせますように！",
+    "French": "Un cadeau, un sentiment, une bénédiction, une attention. Que mon cadeau puisse être une touche de couleur dans votre vie, je vous souhaite la joie tous les jours!",
+    "Russian": "Один подарок, одна наклоненность сердца, одна благословение, одна забота. Пусть мой подарок станет яркой пятно в вашей жизни, желаю вам радость каждый день!",
+    "ChineseTraditional": "一份禮物，一份心意，一份祝福，一份關懷。願我的這份禮物，能夠成為你生活中的一抹亮色，祝你每天都開心！"
+  },
+  {
+    "id": 34,
+    "key": "gift_6",
+    "ChineseSimplified": "礼物轻如鸿毛，祝福重如泰山。愿您的礼物为您带来欢愉，留下美好的回忆。",
+    "English": "A gift as light as a feather, but blessings as heavy as Mount Tai. May your gift bring you delight and leave behind wonderful memories.",
+    "Japanese": "おみやげは鴻毛の如く軽いが、祝福は泰山の如く重い。おみやげがあなたに喜びをもたらし、美しい思い出を残す事を願っております。",
+    "French": "Un cadeau aussi léger qu'une plume, mais des bénédictions aussi lourdes que la montagne Taishan. Que votre cadeau vous apporte la joie et laisse de bons souvenirs.",
+    "Russian": "Подарок легкий как перо, благословения тяжелые как Тайшань. Пусть ваш подарок принесет вам удовольствие, оставит прекрасные воспоминания.",
+    "ChineseTraditional": "禮物輕如鴻毛，祝福重如泰山。願你的禮物為你帶來歡愉，留下美好的回憶。"
+  },
+  {
+    "id": 35,
+    "key": "gitf_7",
+    "ChineseSimplified": "愿这份礼物带给你无尽的欢乐，让你的每一天都充满阳光和喜悦",
+    "English": "May this gift bring you boundless joy, filling your every day with sunshine and delight.",
+    "Japanese": "このおみやげが無尽の喜びをもたらし、毎日を日差しと喜びに満ちるように願っております。",
+    "French": "Que ce cadeau vous apporte une joie sans borne, et que chaque jour de votre vie soit plein de soleil et de joie.",
+    "Russian": "Пусть этот подарок принесет вам нескончаемую радость, чтобы каждый день вашей жизни был наполнен солнцем и радостью.",
+    "ChineseTraditional": "願這份禮物帶給你無盡的歡樂，讓你的每一天都充滿陽光和喜悅。"
+  },
+  {
+    "id": 36,
+    "key": "game_1",
+    "ChineseSimplified": "你喜欢玩什么游戏?",
+    "English": "What games do you like to play?",
+    "Japanese": "どんなゲームを好きに遊びますか？",
+    "French": "Quel genre de jeux aimes-tu jouer ?",
+    "Russian": "Какие игры ты любишь играть?",
+    "ChineseTraditional": "你喜歡玩什麼遊戲？"
+  },
+  {
+    "id": 37,
+    "key": "game_ans_1",
+    "ChineseSimplified": "我喜欢玩\"祖玛“战斗类游戏，比如这个，你试试？",
+    "English": "I like playing \"Zuma\"-style battle games. Like this one, why don't you try it?",
+    "Japanese": "私は「ズーマ」のような戦闘ゲームが好きです。このゲームを試してみませんか？",
+    "French": "J'aime jouer aux jeux de bataille du genre \"Zuma\". Comme celui-ci, pourquoi ne pas l'essayer ?",
+    "Russian": "Я люблю играть в боевые игры в стиле \"Зума\". Например, эту, почему бы тебе не попробовать?",
+    "ChineseTraditional": "我喜歡玩「祖瑪」風格的戰鬥類遊戲，比如這個，你要不要試試看？"
+  },
+  {
+    "id": 38,
+    "key": "locked",
+    "ChineseSimplified": "当前没有开放",
+    "English": "It's currently not open.",
+    "Japanese": "現在は開いていません。",
+    "French": "Il n'est pas ouvert actuellement.",
+    "Russian": "Сейчас не открыто.",
+    "ChineseTraditional": "目前尚未開放。"
+  },
+  {
+    "id": 39,
+    "key": "recommend",
+    "ChineseSimplified": "推荐",
+    "English": "Recommend",
+    "Japanese": "推奨",
+    "French": "Recommander",
+    "Russian": "Рекомендовать",
+    "ChineseTraditional": "推薦"
+  },
+  {
+    "id": 40,
+    "key": "download",
+    "ChineseSimplified": "欢迎去下载体验游戏",
+    "English": "Welcome to download and experience the game.",
+    "Japanese": "ゲームをダウンロードして体験をお楽しみください。",
+    "French": "Bienvenue pour télécharger et découvrir le jeu.",
+    "Russian": "Приветствуем вас, чтобы вы скачали и испытали игру.",
+    "ChineseTraditional": "歡迎下載體驗遊戲。"
+  },
+  {
+    "id": 41,
+    "key": "unknow",
+    "ChineseSimplified": "我没有听懂你再说什么，请再说一遍",
+    "English": "I didn't understand what you said, please say it again.",
+    "Japanese": "何を言っているか分かりませんでした、もう一度お願いします。",
+    "French": "Je n'ai pas compris ce que vous avez dit, veuillez répéter.",
+    "Russian": "Я не понял, что вы сказали, пожалуйста, повторите.",
+    "ChineseTraditional": "我沒有聽懂妳在說什麼，請再說一遍。"
+  },
+  {
+    "id": 42,
+    "key": "unsupported",
+    "ChineseSimplified": "非常抱歉,{0}暂不支持,请使用英文提问",
+    "English": "I'm very sorry, {0} is not supported at this time. Please ask your question in English.",
+    "Japanese": "申し訳ありません、{0}は現時点ではサポートされていません。英語で質問をお願いいたします。",
+    "French": "Je suis désolé, {0} n'est pas pris en charge pour l'instant. Veuillez poser votre question en anglais.",
+    "Russian": "Очень извините, {0} в настоящее время не поддерживается. Попробуйте задать вопрос на английском языке.",
+    "ChineseTraditional": "非常抱歉，{0}現時暫不支援，請使用英文提問。"
+  },
+  {
+    "id": 43,
+    "key": "select",
+    "ChineseSimplified": "选择",
+    "English": "Choose",
+    "Japanese": "選択",
+    "French": "Choisir",
+    "Russian": "Выбрать",
+    "ChineseTraditional": "選擇"
+  },
+  {
+    "id": 44,
+    "key": "unlock",
+    "ChineseSimplified": "还未解锁",
+    "English": "Not unlocked yet",
+    "Japanese": "まだロック解除されていません",
+    "French": "Pas encore déverrouillé",
+    "Russian": "Еще не разблокирован",
+    "ChineseTraditional": "還未解鎖"
+  },
+  {
+    "id": 45,
+    "key": "choose_role",
+    "ChineseSimplified": "选择角色",
+    "English": "Select Character",
+    "Japanese": "キャラクターを選択",
+    "French": "Sélectionner un personnage",
+    "Russian": "Выбрать персонаж",
+    "ChineseTraditional": "選擇角色"
+  },
+  {
+    "id": 46,
+    "key": "role",
+    "ChineseSimplified": "角色",
+    "English": "Role",
+    "Japanese": "キャラクター",
+    "French": "Rôle",
+    "Russian": "Роль",
+    "ChineseTraditional": "角色"
+  }
+]

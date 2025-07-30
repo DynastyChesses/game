@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<linker>
+		<assembly fullname="mscorlib">
+		   	<namespace fullname="System.Collections.Generic" preserve="all"/>
+			<namespace fullname="System.Globalization" preserve="all"/>
+		</assembly>
+		<assembly fullname="UnityEngine.SpriteMaskModule">
+			<type fullname="UnityEngine.SpriteMask" preserve="all"/>
+		</assembly>
+		<assembly fullname="UnityEngine.GridModule">
+			<type fullname="UnityEngine.Grid" preserve="all"/>
+		</assembly>
+		<assembly fullname="System.Globalization.*Calendar" preserve="all"/>
+</linker>

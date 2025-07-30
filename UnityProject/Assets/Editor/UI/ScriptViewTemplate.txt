@@ -1,0 +1,26 @@
+﻿using Host_TMPro;
+using Host_UnityEngine;
+using Host_UnityEngine.UI;
+
+public class ${className} :${baseClass}
+{
+	//auto generate propertyDef Start, Don't Delete it!
+	${propertyDef}
+	//auto generate propertyDef End, Don't Delete it!
+
+	public ${propSetFuncName}(GameObject viewObj)${baseCall}
+	{
+		${propertySetFirstPart}
+		//auto generate propertySet Start, Don't Delete it!
+		${propertySet}
+		//auto generate propertySet End, Don't Delete it!
+	}
+
+	public override void Dispose()
+    {
+		//auto generate propertyDis Start, Don't Delete it!
+		${propertyDis}
+		//auto generate propertyDis End, Don't Delete it!
+		base.Dispose();
+    }
+}

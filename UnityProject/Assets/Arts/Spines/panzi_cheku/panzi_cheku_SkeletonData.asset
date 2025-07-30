@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bde0fe1218174c1fbc5f05a9e0a98bd, type: 3}
+  m_Name: panzi_cheku_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: b45ee2e02bf494e00806d92d56286ec2, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 5d1e43d24834047059e7a280a6bb55e1, type: 3}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}
+  headersHash: teTXR56w88V6iY9prXly/6yi5js
+  headers:
+  - animation: atk_l
+    index: 0
+    start: 440
+    length: 174
+  - animation: atk_r
+    index: 1
+    start: 614
+    length: 174
+  - animation: atk_up
+    index: 2
+    start: 788
+    length: 175
+  - animation: die
+    index: 3
+    start: 963
+    length: 125
+  - animation: idle
+    index: 4
+    start: 1088
+    length: 13
+  - animation: move_up_end
+    index: 5
+    start: 1101
+    length: 102
+  - animation: move_up_moving
+    index: 6
+    start: 1203
+    length: 23
+  - animation: move_up_start
+    index: 7
+    start: 1226
+    length: 22

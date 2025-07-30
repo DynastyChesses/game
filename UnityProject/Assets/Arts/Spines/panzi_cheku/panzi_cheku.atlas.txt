@@ -1,0 +1,27 @@
+
+panzi_cheku.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l/bg
+  rotate: true
+  xy: 2, 333
+  size: 166, 185
+  orig: 280, 271
+  offset: 57, 43
+  index: -1
+r/bg
+  rotate: true
+  xy: 2, 165
+  size: 166, 185
+  orig: 280, 271
+  offset: 57, 43
+  index: -1
+up/bg
+  rotate: false
+  xy: 2, 2
+  size: 166, 161
+  orig: 280, 271
+  offset: 57, 43
+  index: -1

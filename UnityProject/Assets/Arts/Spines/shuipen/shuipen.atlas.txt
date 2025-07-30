@@ -1,0 +1,90 @@
+
+shuipen.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 124
+  size: 254, 126
+  orig: 254, 126
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 516, 77
+  size: 49, 59
+  orig: 51, 61
+  offset: 1, 1
+  index: -1
+003
+  rotate: true
+  xy: 549, 211
+  size: 39, 28
+  orig: 41, 30
+  offset: 1, 1
+  index: -1
+004
+  rotate: false
+  xy: 449, 16
+  size: 99, 16
+  orig: 101, 18
+  offset: 1, 1
+  index: -1
+005
+  rotate: true
+  xy: 487, 37
+  size: 29, 59
+  orig: 31, 61
+  offset: 1, 1
+  index: -1
+006
+  rotate: false
+  xy: 449, 2
+  size: 49, 12
+  orig: 51, 14
+  offset: 1, 1
+  index: -1
+007
+  rotate: true
+  xy: 449, 34
+  size: 102, 36
+  orig: 104, 38
+  offset: 1, 1
+  index: -1
+008
+  rotate: false
+  xy: 550, 19
+  size: 17, 56
+  orig: 19, 58
+  offset: 1, 1
+  index: -1
+009
+  rotate: false
+  xy: 487, 68
+  size: 27, 68
+  orig: 29, 70
+  offset: 1, 1
+  index: -1
+mutong
+  rotate: true
+  xy: 258, 4
+  size: 246, 189
+  orig: 248, 191
+  offset: 1, 1
+  index: -1
+yazi
+  rotate: false
+  xy: 449, 138
+  size: 98, 112
+  orig: 100, 114
+  offset: 1, 1
+  index: -1
+zhedang
+  rotate: false
+  xy: 2, 4
+  size: 246, 118
+  orig: 248, 120
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+xinshouyindao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou
+  rotate: false
+  xy: 2, 2
+  size: 191, 191
+  orig: 192, 193
+  offset: 1, 1
+  index: -1
+shouzhi
+  rotate: false
+  xy: 195, 62
+  size: 99, 131
+  orig: 99, 134
+  offset: 0, 3
+  index: -1

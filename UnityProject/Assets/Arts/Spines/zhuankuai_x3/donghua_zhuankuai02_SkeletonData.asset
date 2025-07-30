@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bde0fe1218174c1fbc5f05a9e0a98bd, type: 3}
+  m_Name: donghua_zhuankuai02_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 2fb3b8d8e4ed4426886fa62402107cef, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 09628515ad1f14f8d961e0bcdc5e8927, type: 3}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}
+  headersHash: X4cvnTqgwIhl8KsbYYLArfhik8g
+  headers:
+  - animation: add
+    index: 0
+    start: 15810
+    length: 235
+  - animation: die
+    index: 1
+    start: 16045
+    length: 3453
+  - animation: happy
+    index: 2
+    start: 19498
+    length: 411
+  - animation: hurt_l
+    index: 3
+    start: 19909
+    length: 2607
+  - animation: hurt_r
+    index: 4
+    start: 22516
+    length: 2637
+  - animation: idle
+    index: 5
+    start: 25153
+    length: 959
+  - animation: move
+    index: 6
+    start: 26112
+    length: 5591
+  - animation: move_end
+    index: 7
+    start: 31703
+    length: 3777

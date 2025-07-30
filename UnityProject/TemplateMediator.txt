@@ -1,0 +1,41 @@
+
+
+using System;
+using System.Collections.Generic;
+
+public class ${TemplateMediatorClass} : TBaseUIMediator<${TemplateSkin}>
+{
+    
+    public ${TemplateMediatorClass}() : base(MediatorNames.${TemplateMediatorName},NotificationConst.${ShowTemplateMediator})
+    {
+        
+    }
+
+    protected override void OnCreateView(object data)
+    {
+        base.OnCreateView(data);
+
+    }
+
+    protected override void OnShowViewAndRefresh(object data)
+    {
+
+    }
+
+
+    protected override void BeforeHideView()
+    {
+        base.BeforeHideView();
+    }
+
+    protected override void BeforeViewDispose()
+    {
+        base.BeforeViewDispose();
+    }
+
+    protected override void DoOnReturnMaskClick()
+    {
+        HideView();
+        base.DoOnReturnMaskClick();
+    }
+}

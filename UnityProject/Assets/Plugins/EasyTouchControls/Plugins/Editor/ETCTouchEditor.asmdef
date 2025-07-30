@@ -1,0 +1,17 @@
+{
+    "name": "ETCTouchEditor",
+    "references": [
+        "GUID:afc31c0a37bc046d2963997a4ab065f7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,36 @@
+pluginManagement {
+    repositories {
+        maven { url 'https://artifacts.applovin.com/android'; content { includeGroupByRegex 'com.applovin.*' } }
+        
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+include ':launcher', ':unityLibrary'
+
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        
+        google()
+        mavenCentral()
+// Android Resolver Repos Start
+        maven {
+            url "https://repo.maven.apache.org/maven2" // Assets/Editor/Dependencies.xml:12, Assets/HotUpdate/SDK/Account/GooglePlay/Editor/Dependencies.xml:12
+        }
+        maven {
+            url "https://maven.google.com" // Assets/Editor/Dependencies.xml:41, Assets/HotUpdate/SDK/Account/GooglePlay/Editor/Dependencies.xml:41
+        }
+        mavenLocal()
+// Android Resolver Repos End
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}
+// Repositories for "com.unity.purchasing". This section is automatically generated.
+
+// End of repositories for "com.unity.purchasing".

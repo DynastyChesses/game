@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bde0fe1218174c1fbc5f05a9e0a98bd, type: 3}
+  m_Name: suijipanzi_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 6d3bd04cdd24a43a3a9731871b0d5dda, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: db3be2e539ffc4d59af4c97b27d38665, type: 3}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}
+  headersHash: 3Wavgh/HJ4amGJvXBrUCh9k1H44
+  headers:
+  - animation: idle
+    index: 0
+    start: 1572
+    length: 139
+  - animation: move_left_end
+    index: 1
+    start: 1711
+    length: 104
+  - animation: move_left_moving
+    index: 2
+    start: 1815
+    length: 25
+  - animation: move_left_start
+    index: 3
+    start: 1840
+    length: 24
+  - animation: move_right_end
+    index: 4
+    start: 1864
+    length: 105
+  - animation: move_right_moving
+    index: 5
+    start: 1969
+    length: 26
+  - animation: move_right_start
+    index: 6
+    start: 1995
+    length: 25
+  - animation: move_up_end
+    index: 7
+    start: 2020
+    length: 102
+  - animation: move_up_moving
+    index: 8
+    start: 2122
+    length: 23
+  - animation: move_up_start
+    index: 9
+    start: 2145
+    length: 22

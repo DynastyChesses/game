@@ -1,0 +1,36 @@
+{
+    "canisters": {
+        "dynastychesses_assets": {
+            "type": "assets",
+            "source": [
+                "src/dynastychesses_assets/assets",
+                {
+                    "match": "**/*.{png,jpg,jpeg,gif,svg}",
+                    "source": "images/",
+                    "destination": "images/"
+                }
+            ],
+            "build": {
+                "args": [
+                    "--network=ic"
+                ]
+            }
+        }
+    },
+    "defaults": {
+        "build": {
+            "packtool": ""
+        }
+    },
+    "dfx": "0.14.0",
+    "networks": {
+        "local": {
+            "bind": "127.0.0.1:8000",
+            "type": "ephemeral"
+        }
+    },
+    "project": {
+        "name": "dynastychesses"
+    },
+    "version": 1
+}

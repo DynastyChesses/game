@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaf15a68350ccb94085dc2029016adbe, type: 3}
+  m_Name: SpineRuntimeCfg
+  m_EditorClassIdentifier: 
+  runtimeCfg: 1
+  m_LazyLoadingEnabled: 1
+  m_ParseAccelerateEnabled: 1
+  m_LimitFrameRateEnabled: 1
+  m_GlobalMixingEnabled: 1
+  m_WebGLMixingEnabled: 0
+  m_SkipDuplicateLoopAnimationEnabled: 1
+  m_KillMixingThreshold: 0.2
+  m_MemoryCompressEnabled: 1
+  m_SkeletonMeshCacheEnabled: 1
+  autoReleaseMeshCacheThreshold: 20
+  m_RecycleTimeAfterLastUse: 10
+  keepCacheEvenWithoutActiveSpine: 0
+  m_MaxFrame: 30
+  m_FrustumCullingEnabled: 0
+  m_LowMemoryCallbackEnabled: 1
+  forceNotUpdateWhenInvisableForAll: 0
+  invisableUpdateMode: 0

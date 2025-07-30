@@ -1,0 +1,69 @@
+
+dangong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg01
+  rotate: false
+  xy: 154, 16
+  size: 94, 95
+  orig: 131, 136
+  offset: 18, 27
+  index: -1
+dangong_y
+  rotate: false
+  xy: 154, 113
+  size: 111, 138
+  orig: 111, 138
+  offset: 0, 0
+  index: -1
+guang_01
+  rotate: true
+  xy: 2, 98
+  size: 153, 150
+  orig: 161, 162
+  offset: 4, 6
+  index: -1
+guang_q
+  rotate: false
+  xy: 250, 30
+  size: 81, 81
+  orig: 83, 83
+  offset: 1, 1
+  index: -1
+pidou
+  rotate: false
+  xy: 267, 131
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+sheng
+  rotate: false
+  xy: 81, 12
+  size: 58, 84
+  orig: 105, 84
+  offset: 0, 0
+  index: -1
+sheng02
+  rotate: false
+  xy: 267, 176
+  size: 32, 75
+  orig: 105, 84
+  offset: 73, 9
+  index: -1
+xing
+  rotate: false
+  xy: 250, 2
+  size: 25, 26
+  orig: 27, 27
+  offset: 1, 0
+  index: -1
+y
+  rotate: true
+  xy: 2, 5
+  size: 91, 77
+  orig: 131, 136
+  offset: 14, 25
+  index: -1

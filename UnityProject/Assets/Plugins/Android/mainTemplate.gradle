@@ -1,0 +1,61 @@
+apply plugin: 'com.android.library'
+**APPLY_PLUGINS**
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+// Android Resolver Dependencies Start
+    implementation 'com.android.billingclient:billing:6.2.1' // Assets/Editor/Dependencies.xml:41
+    implementation 'com.applovin.mediation:google-adapter:[23.6.0.2]' // Packages/com.applovin.mediation.adapters.google.android/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:unityads-adapter:4.13.0.0' // Packages/com.applovin.mediation.adapters.unityads.android/Editor/Dependencies.xml:4
+    implementation 'com.applovin:applovin-sdk:13.0.1' // Packages/com.applovin.mediation.ads/AppLovin/Editor/Dependencies.xml:4
+    implementation 'com.google.android.gms:play-services-games-v2:+' // Assets/HotUpdate/SDK/Account/GooglePlay/Editor/Dependencies.xml:41
+    implementation 'com.google.code.gson:gson:2.8.9' // Assets/Editor/Dependencies.xml:43
+    implementation 'com.google.guava:guava:31.0.1-jre' // Assets/Editor/Dependencies.xml:42
+// Android Resolver Dependencies End
+**DEPS**}
+
+// Android Resolver Exclusions Start
+android {
+  packagingOptions {
+      exclude ('/lib/armeabi/*' + '*')
+      exclude ('/lib/mips/*' + '*')
+      exclude ('/lib/mips64/*' + '*')
+      exclude ('/lib/x86/*' + '*')
+      exclude ('/lib/x86_64/*' + '*')
+  }
+}
+// Android Resolver Exclusions End
+android {
+    ndkPath "**NDKPATH**"
+
+    compileSdkVersion **APIVERSION**
+    buildToolsVersion '**BUILDTOOLS**'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    defaultConfig {
+        minSdkVersion **MINSDKVERSION**
+        targetSdkVersion **TARGETSDKVERSION**
+        ndk {
+            abiFilters **ABIFILTERS**
+        }
+        versionCode **VERSIONCODE**
+        versionName '**VERSIONNAME**'
+        consumerProguardFiles 'proguard-unity.txt'**USER_PROGUARD**
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    aaptOptions {
+        noCompress = **BUILTIN_NOCOMPRESS** + unityStreamingAssets.tokenize(', ')
+        ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:!CVS:!thumbs.db:!picasa.ini:!*~"
+    }**PACKAGING_OPTIONS**
+}
+**IL_CPP_BUILD_SETUP**
+**SOURCE_BUILD_SETUP**
+**EXTERNAL_SOURCES**
