@@ -2,7 +2,7 @@
 
 An innovative GameFi strategy game merging Chinese historical dynasties with chess-based warfare mechanics, built on the Internet Computer Protocol (ICP) blockchain.
 
-## Project Overview
+## 🎯 Project Overview
 
 DynastyChesses combines the grandeur of Chinese historical dynasties with immersive strategic gameplay, leveraging blockchain technology and AI to create a unique GameFi experience. Players can build civilizations, command legendary generals, and engage in epic battles while exploring deep cultural narratives inspired by Chinese philosophy and history.
 
@@ -14,14 +14,14 @@ Key features include:
 - ICP blockchain integration for transparent, decentralized gameplay
 - Adaptive AI opponents that mimic historical strategies
 
-## Installation & Deployment
+## 🛠️ Installation & Deployment
 
 ### Prerequisites
 - [DFX (ICP SDK)](https://sdk.dfinity.org/docs/quickstart/quickstart.html)
 - Node.js (v16+)
 - Git
 
-### Local Development Setup
+### 📁 Local Development Setup
 
 1. Clone the repository
    ```bash
@@ -79,7 +79,7 @@ Key features include:
 - Blockchain: Internet Computer Protocol (ICP)
 - Tools: DFX, Git
 
-## Roadmap
+## 📅 Roadmap
 
 - Phase 1: Core development of 12 dynasties and ICP integration
 - Phase 2: Expansion with mythical races and NFT marketplace
